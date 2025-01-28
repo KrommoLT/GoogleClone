@@ -1,0 +1,29 @@
+@media screen and (max-width: 480px) {
+  .main {
+    margin-top: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .nav-right-section {
+    align-items: center;
+  }
+  .main-buttons {
+    margin-right: 6rem;
+  }
+  main .main-input input {
+    width: 20rem;
+  }
+  main .main-input-container {
+    width: 30rem;
+  }
+  .main-input {
+    display: flex;
+    margin: auto;
+  }
+  .footer {
+    margin: auto;
+    height: 15%;
+  }
+}
